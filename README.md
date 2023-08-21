@@ -35,19 +35,17 @@
 ## :computer: Running tests from the terminal
 
 ```bash
-gradle clean rest
+gradle clean еest
 ```
 
 <a id="remote"></a>
 ### Remote running tests
 
-```bash
-clean
-rest_diplome
+
 ```
 
 <a id="jenkins-report"></a>
-## <img width="4%" title="Jenkins" src="media/logo/Jenkins_logo.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/)
+## <img width="4%" title="Jenkins" src="media/logo/Jenkins.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/)
 
 To pass autotests, you need to click on <code><strong>*Собрать сейчас*</strong></code> 
 <p align="center">
