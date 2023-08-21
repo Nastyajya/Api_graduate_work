@@ -22,20 +22,20 @@
 |:--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://www.java.com/"><img src="media/logo/Java.svg" width="50" height="50"  alt="Java"/></a> | <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a> | <a href="https://github.com/allure-framework"><img src="media/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a> | <a href="https://qameta.io/"><img src="media/logo/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a> | <a href="https://github.com/"><img src="media/logo/GitHub.svg" width="50" height="50"  alt="Github"/></a> | <a href="https://junit.org/junit5/"><img src="media/logo/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a> | <a href="https://gradle.org/"><img src="media/logo/Gradle.svg" width="50" height="50"  alt="Gradle"/></a> | <a href="https://rest-assured.io/"><img src="media/logo/RestAssured.svg" width="50" height="50"  alt="RestAssured"/></a>  |   <a href="https://www.jenkins.io/"><img src="media/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a> | <a href="https://www.atlassian.com/ru/software/jira"><img src="media/logo/Jira.svg" width="50" height="50"  alt="Jira"/></a> |
 <a id="tests"></a>
-## :bookmark_tabs: List of checks:
-## E2E Tests
 
-- [x] Check country list
-- [x] Check pizzeria
-- [x] Check revenue country
-- [x] Ask FeedBack
-- [x] Send mail for work
+## Checks carried out:
+
+
+- [x] Checking id and username
+- [x] Checking user creation
+- [x] Checking username change
+- [x] User deletion check
 
 <a id="run"></a>
 ## :computer: Running tests from the terminal
 
 ```bash
-gradle clean rest_diplome
+gradle clean rest
 ```
 
 <a id="remote"></a>
@@ -47,11 +47,9 @@ rest_diplome
 ```
 
 <a id="jenkins-report"></a>
-## <img width="4%" title="Jenkins" src="media/logo/Jenkins_logo.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/pilulka/)
+## <img width="4%" title="Jenkins" src="media/logo/Jenkins_logo.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/)
 
-After completing all the settings, you need to click on the button <code><strong>*Собрать сейчас*</strong></code> and build will be started.
-When the assembly is completed, the allure report becomes available.
-
+To pass autotests, you need to click on <code><strong>*Собрать сейчас*</strong></code> 
 <p align="center">
   <img src="media/logo/allure_rest.png" alt="Jenkins" width="800">
 </p>
