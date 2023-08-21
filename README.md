@@ -50,17 +50,17 @@ To pass autotests, you need to click on <code><strong>*Собрать сейча
 
 
 <a id="allure-report"></a>
-## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in (https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
+## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in [Allure Report](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
 
 <p align="center">
-  <img src="media/logo/allure.svg" alt="Jenkins" width="800">
+  <img src="media/logo/allure.svg" alt="Jenkins" width="600">
 </p>
 
 From <code><strong>Jenkins</strong></code> 
 With Jenkins, reports are generated in <code><strong>Allure</strong></code>
 
 <p align="center">
-  <img src="media/screenshots/rest_report.png" alt="jenkins-allure" width="900">
+  <img src="media/screenshots/rest_report.png" alt="jenkins-allure" width="600">
 </p>
 
 <a id="allure-testops"></a>
