@@ -1,6 +1,9 @@
 <h1 >API test automation project for <a href="https://dummy.restapiexample.com/#google_vignette/">dummy.restapiexample.com</a></h1>
-![WB_logo.jpg](media/logo/logo_header.png)
-## :page_with_curl: Сontent
+<p align="center">
+  <img src="media/logo/logo_header .png" width="800">
+</p>
+<a name="Ссылка"></a>
+
 - <a href="#tools">Stack of technologies</a>
 - <a href="#tests">List of checks</a>
 - <a href="#run">Running tests from the terminal</a>
