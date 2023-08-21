@@ -43,14 +43,17 @@ gradle clean test
 ## <img width="4%" title="Jenkins" src="media/logo/Jenkins.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/)
 
 To pass autotests, you need to click on <code><strong>*Собрать сейчас*</strong></code> 
-<a href="ahttps://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/" src="media/screenshots/JenkinsSborka.png" alt="Jenkins"/></a>
+
+<p align="center">
+  <img src="media/screenshot/JenkinsSborka.png" alt="Jenkins" width="800">
+</p>
 
 
 <a id="allure-report"></a>
 ## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in (https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
 
 <p align="center">
-  <img src="media/logo/allure_rest.png" alt="Jenkins" width="800">
+  <img src="media/logo/allure.svg" alt="Jenkins" width="800">
 </p>
 
 From <code><strong>Jenkins</strong></code> 
