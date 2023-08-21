@@ -56,10 +56,6 @@ and click on <code><strong>*Собрать*</strong></code>.
 <a id="allure-report"></a>
 ## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in [Allure Report](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
 
-<p align="center">
-  <img src="media/logo/allure.svg" alt="Jenkins" width="800">
-</p>
-
 With <code><strong>Jenkins</strong></code> reports are generated in <code><strong>Allure</strong></code>
 
 <p align="center">
