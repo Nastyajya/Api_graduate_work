@@ -60,21 +60,21 @@ and click on <code><strong>*Собрать*</strong></code>.
   <img src="media/logo/allure.svg" alt="Jenkins" width="800">
 </p>
 
-From <code><strong>Jenkins</strong></code> 
-With Jenkins, reports are generated in <code><strong>Allure</strong></code>
+With <code><strong>Jenkins</strong></code> reports are generated in <code><strong>Allure</strong></code>
 
 <p align="center">
-  <img src="media/screenshots/rest_report.png" alt="jenkins-allure" width="600">
+  <img src="media/screenshots/rest_report.png" alt="jenkins-allure" width="800">
 </p>
 
 <a id="allure-testops"></a>
 ## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Integration with [Allure TestOps](https://allure.autotests.cloud/launch/28997)
 
-## Test-cases
-
 <p align="center">
   <img src="media/screnshots/rest_allure.png" alt="testops" width="800">
 </p>
+
+### Test-cases
+
 <p align="center">
   <img src="media/screnshots/rest__allure.png" alt="testops" width="800">
 </p>
