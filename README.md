@@ -39,10 +39,8 @@
 gradle clean test  
 ```
 
-<a id="jenkins"></a>
+<a id="jenkins-report"></a>
 ## <img width="4%" title="Jenkins" src="media/logo/Jenkins.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/)
-
-<p align="center">
 
 To pass autotests, you need to click on <code><strong>*Собрать сейчас*</strong></code> 
 <a href="ahttps://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/" src="media/screenshots/JenkinsSborka.png" alt="Jenkins"/></a>
@@ -50,6 +48,10 @@ To pass autotests, you need to click on <code><strong>*Собрать сейча
 
 <a id="allure-report"></a>
 ## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in (https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
+
+<p align="center">
+  <img src="media/logo/allure_rest.png" alt="Jenkins" width="800">
+</p>
 
 From <code><strong>Jenkins</strong></code> 
 With Jenkins, reports are generated in <code><strong>Allure</strong></code>
