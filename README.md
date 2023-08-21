@@ -1,6 +1,6 @@
 <h1 >API test automation project for <a href="https://dummy.restapiexample.com/#google_vignette/">dummy.restapiexample.com</a></h1>
 <p align="center">
-  <img src="media/logo_header.PNG" alt="media/logo_header.PNG" width="800">
+  <img src="media/logo/logo_header.PNG" width="800">
 </p>
 <a name="Ссылка"></a>
 
