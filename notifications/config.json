@@ -12,6 +12,6 @@
   "telegram": {
     "token": "6026249881:AAHfxDLe3tD8l-Tazh-vePS2RdsDsfeQN-A",
     "chat": "-1001948835718",
-    "replyTo": ""
+    "replyTo": "https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/"
   }
 }
