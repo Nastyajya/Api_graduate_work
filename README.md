@@ -39,39 +39,37 @@
 gradle clean test  
 ```
 
-<a id="jenkins"></a>
+<a id="jenkins-report"></a>
 ## <img width="4%" title="Jenkins" src="media/logo/Jenkins.svg"> Running tests in [Jenkins](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/)
 
-<p align="center">
-
 To pass autotests, you need to click on <code><strong>*Собрать сейчас*</strong></code> 
-<a href="ahttps://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/" src="media/screenshots/JenkinsSborka.png" alt="Jenkins"/></a>
+
+<p align="center">
+  <img src="media/screenshot/JenkinsSborka.png" alt="Jenkins" width="800">
+</p>
 
 
 <a id="allure-report"></a>
-## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in (https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
+## <img width="4%" title="Allure Report" src="media/logo/Allure.svg"> Test results report in [Allure Report](https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/)
+
+<p align="center">
+  <img src="media/logo/allure.svg" alt="Jenkins" width="600">
+</p>
 
 From <code><strong>Jenkins</strong></code> 
 With Jenkins, reports are generated in <code><strong>Allure</strong></code>
 
 <p align="center">
-  <img src="media/screenshots/rest_report.png" alt="jenkins-allure" width="900">
+  <img src="media/screenshots/rest_report.png" alt="jenkins-allure" width="600">
 </p>
 
 <a id="allure-testops"></a>
-## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Integration with [Allure TestOps](https://allure.autotests.cloud/launch/18709)
+## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Integration with [Allure TestOps](https://allure.autotests.cloud/launch/28997)
 
 ## Test-cases
 
 <p align="center">
-  <img src="media/logo/rest_allure.png" alt="testops" width="800">
-</p>
-
-<a id="jira"></a>
-## <img width="4%" title="Jira" src="media/logo/Jira.svg"> Integration with [Jira](https://jira.autotests.cloud/browse/HOMEWORK-490)
-
-<p align="center">
-  <img src="media/logo/jira_rest.png" alt="jira-project" width="800">
+  <img src="media/logo/rest_allure.png" alt="testops" width="600">
 </p>
 
 <a id="telegram"></a>
