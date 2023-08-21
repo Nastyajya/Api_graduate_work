@@ -64,19 +64,12 @@ With Jenkins, reports are generated in <code><strong>Allure</strong></code>
 </p>
 
 <a id="allure-testops"></a>
-## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Integration with [Allure TestOps](https://allure.autotests.cloud/launch/18709)
+## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Integration with [Allure TestOps](https://allure.autotests.cloud/launch/28997)
 
 ## Test-cases
 
 <p align="center">
-  <img src="media/logo/rest_allure.png" alt="testops" width="800">
-</p>
-
-<a id="jira"></a>
-## <img width="4%" title="Jira" src="media/logo/Jira.svg"> Integration with [Jira](https://jira.autotests.cloud/browse/HOMEWORK-490)
-
-<p align="center">
-  <img src="media/logo/jira_rest.png" alt="jira-project" width="800">
+  <img src="media/logo/rest_allure.png" alt="testops" width="600">
 </p>
 
 <a id="telegram"></a>
