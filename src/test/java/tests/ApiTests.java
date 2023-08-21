@@ -4,6 +4,7 @@ package tests;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Owner;
 import models.*;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import java.util.List;
 import java.util.Map;
@@ -13,6 +14,7 @@ import static io.restassured.RestAssured.given;;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static specs.EmployeesSpec.*;
 
+@Tag("api_test")
 public class ApiTests {
     @Owner("a.zelenskaia")
     @Feature("API test")
