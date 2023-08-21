@@ -70,13 +70,13 @@ With <code><strong>Jenkins</strong></code> reports are generated in <code><stron
 ## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Integration with [Allure TestOps](https://allure.autotests.cloud/launch/28997)
 
 <p align="center">
-  <img src="media/screnshots/rest_allure.png" alt="testops" width="800">
+  <img src="media/screenshots/rest_allure.png" alt="testops" width="800">
 </p>
 
 ### Test-cases
 
 <p align="center">
-  <img src="media/screnshots/rest__allure.png" alt="testops" width="800">
+  <img src="media/screenshots/rest__allure.png" alt="testops" width="800">
 </p>
 
 
