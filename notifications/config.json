@@ -3,7 +3,7 @@
     "project": "${JOB_NAME}",
     "environment": "",
     "comment": "",
-    "reportLink": "",
+    "reportLink": "https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/",
     "language": "en",
     "messenger": "telegram",
     "allureFolder": "build/reports/allure-report/allureReport",
@@ -12,6 +12,6 @@
   "telegram": {
     "token": "6026249881:AAHfxDLe3tD8l-Tazh-vePS2RdsDsfeQN-A",
     "chat": "-1001948835718",
-    "replyTo": "https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/"
+    "replyTo": ""
   }
 }
