@@ -80,9 +80,9 @@ With <code><strong>Jenkins</strong></code> reports are generated in <code><stron
 After passing all the tests, an automatic report is sent to the <code>Telegram</code> messenger
 
 <p align="center">
-<img title="Telegram Notifications" src="media//logo/telegram_rest.png" width="500">
+<img title="Telegram Notifications" src="media//screenshots/telegram_rest.png" width="500">
 </p>
 
 
 
-[Вернуться к оглавлению ⬆](#Ссылка)
+[ Up⬆](#Ссылка)
