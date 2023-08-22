@@ -1,9 +1,9 @@
 {
   "base": {
-    "project": "${JOB_NAME}",
+    "project": "Api project",
     "environment": "",
     "comment": "",
-    "reportLink": "https://jenkins.autotests.cloud/job/Api_graduate_work_Zelenskaia/allure/",
+    "reportLink": "https://jenkins.autotests.cloud",
     "language": "en",
     "messenger": "telegram",
     "allureFolder": "build/reports/allure-report/allureReport",
