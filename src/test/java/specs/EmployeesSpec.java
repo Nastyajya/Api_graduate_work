@@ -74,7 +74,7 @@ public class EmployeesSpec {
             .baseUri("https://dummy.restapiexample.com")
             .basePath("/api/v1/");
 
-    public static ResponseSpecification deleteResponseSpec =  new ResponseSpecBuilder()
+    public static ResponseSpecification deleteResponseSpec = new ResponseSpecBuilder()
             .log(STATUS)
             .log(BODY)
             .expectStatusCode(200)
