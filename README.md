@@ -82,7 +82,3 @@ After passing all the tests, an automatic report is sent to the <code>Telegram</
 <p align="center">
 <img title="Telegram Notifications" src="media//screenshots/telegram_rest.png" width="500">
 </p>
-
-
-
-[ Up⬆](#Ссылка)
